@@ -1,7 +1,9 @@
-### Hello there 👋
+# ***Michał Filip***
+## Hello there 👋
 
-My name is Michał and I love creating inspiring projects with python.
-I'm working pretty hard to be the best, and I will not hesitate when opportunity show up.
+#### I love creating inspiring projects with python.
+I'm working pretty hard to be the best, and I do not hesitate when an opportunity show up.
+
 
 <!--
 **Berettt/Berettt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
