@@ -1,9 +1,7 @@
 # ***Michał Filip***
 ## Hello there 👋
 
-#### I love creating inspiring projects with python.
-I'm working pretty hard to be the best, and I do not hesitate when an opportunity show up.
-
+#### Opportunity rewards those who wait and work hard.
 
 <!--
 **Berettt/Berettt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
