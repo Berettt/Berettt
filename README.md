@@ -1,7 +1,6 @@
 # ***Michał Filip***
-## Hello there 👋
 
-#### Opportunity rewards those who wait and work hard.
+###Opportunity rewards those who wait and work hard.
 
 <!--
 **Berettt/Berettt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
